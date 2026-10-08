@@ -1,0 +1,2 @@
+scripts
+└── gerar_estrutura_python.py
